@@ -5,22 +5,43 @@
 <p>The group split in 1991, with Hampson going on to form the experimental project Main with guitarist Scott Dawson. In 2013, the 1989–90 lineup of Hampson, Dawson, John Wills, and Neil Mackay briefly reformed for a series of gigs, and the following year Hampson unveiled a new lineup of the band with himself as the sole original member.</p>
 
 <h3>Background information</h3>
-Origin	Croydon, Surrey, England
-Genres	
-Space rock[1][2] drone rock[3][4] psychedelic rock[5] noise rock[6]
-Years active	1986–1991, 2013–present
-Labels	Situation Two, Chapter 22 Records, Reactor, Head
-Associated acts	Main, The Hair and Skin Trading Company
-Past members	Robert Hampson
-Becky Stewart (Bex)
-John Wills
-Glen Ray
-James Endeacott
-Neil Mackay
-Scott Dowson
-Hugo Morgan
-Dan Boyd
-Wayne Maskell
+<h4>Origin</h4>	
+Croydon, Surrey, England
+<h4>Genres</h4>	
+<ul>
+<li>Space rock[1][2] </li>
+<li>drone rock[3][4] </li>
+<li>psychedelic rock[5]</li> 
+<li>noise rock[6]</li>
+</ul>
+ 
+<h4>Years active</h4>	
+1986–1991, 2013–present
+
+<h4>Labels</h4>
+<ul>
+<li>Situation Two</li>
+<li>Chapter 22 Records</li>
+<li>Reactor</li> 
+<li>Head</li>
+</ul>
+ 
+<h4>Associated acts</h4>	
+Main, The Hair and Skin Trading Company
+
+<h4>Past members</h4>	
+<ul>
+<li>Robert Hampson</li>
+<li>Becky Stewart (Bex)</li>
+<li>John Wills</li>
+<li>Glen Ray</li>
+<li>James Endeacott</li>
+<li>Neil Mackay</li>
+<li>Scott Dowson</li>
+<li>Hugo Morgan</li>
+<li>Dan Boyd</li>
+<li>Wayne Maskell</li>
+</ul>
 
 <h2>Contents</h2> 
 <ul>
