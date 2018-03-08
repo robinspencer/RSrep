@@ -24,15 +24,15 @@ Wayne Maskell
 
 <h2>Contents</h2> 
 <ul>
-1	Career
-2	Reformation
-3	Members
-4	Discography
-4.1	Albums
-4.2	Compilation Albums
-4.3	Singles
-5	References
-6	External links
+<li>1	Career</li>
+<li>2	Reformation</li>
+<li>3	Members</li>
+<li>4	Discography</li>
+<li>4.1	Albums</li>
+<li>4.2	Compilation Albums</li>
+<li>4.3	Singles</li>
+<li>5	References</li>
+<li>6	External links</li>
 </ul>
 
 <h3>Career</h3>
